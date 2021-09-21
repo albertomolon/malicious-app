@@ -80,6 +80,7 @@ local.properties
 *#
 
 # java
+.java-version
 *.class
 target/
 javadoc/
